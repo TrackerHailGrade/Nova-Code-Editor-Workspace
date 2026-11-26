@@ -1,0 +1,23 @@
+{
+  "repo": "nova-code-editor-workspace",
+  "product": "Nova Code Editor Workspace",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "nova-code-editor-workspace",
+    "nova-code-workspace",
+    "how-to-install-nova-code-workspace",
+    "how-to-setup-nova-code-workspace",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "nova-editor",
+    "nova-code-editor"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Nova Code Editor Workspace"
+}
